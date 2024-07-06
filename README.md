@@ -3,6 +3,18 @@
 ## Project Overview
 The "Motion-Control-of-7DoF-Panda-Robot" project focuses on executing a real-world manipulation task using the 7 Degrees of Freedom (7DoF) Franka Emika Panda robotic manipulator in simulation. This project is divided into two parts: analysis and simulation of the manipulator, and the development of an environment and implementation of a manipulation task.
 
+## Visuals
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kushpatel19/Motion-Control-of-7DoF-Panda-Robot/assets/97977579/31802a51-95c0-433c-b203-30d6a43aea6a" alt="Panda Robot" width="400" height="300"><br>Panda Robot
+    </td>
+    <td align="center">
+      <img src="https://github.com/kushpatel19/Motion-Control-of-7DoF-Panda-Robot/assets/97977579/746c4e81-b457-4343-8228-cd674c70042a" alt="Animation" width="400" height="300"><br>Animation
+    </td>
+  </tr>
+</table>
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Parts](#project-parts)
